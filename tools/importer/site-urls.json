@@ -445,7 +445,8 @@
       "url": "https://www.msccruises.com/int/my-area-with-booking",
       "source": "SITEMAPS",
       "targetPath": "/int/my-area-with-booking",
-      "id": "d494769ca45bde3fb19c5835e095e9354d3a2f2d"
+      "id": "d494769ca45bde3fb19c5835e095e9354d3a2f2d",
+      "status": "EXCLUDED"
     },
     {
       "url": "https://www.msccruises.com/int/my-area-with-booking/payment",
