@@ -1,6 +1,5 @@
 {
   "originUrl": "https://www.msccruises.com",
-  "aborted": false,
   "lastCrawled": "https://www.msccruises.com/",
   "urls": [
     {
@@ -19,7 +18,8 @@
       "url": "https://www.msccruises.com/int/account",
       "source": "SITEMAPS",
       "targetPath": "/int/account",
-      "id": "72ac9b89a5471cffc4e1ab8a139a36077fa258e6"
+      "id": "72ac9b89a5471cffc4e1ab8a139a36077fa258e6",
+      "status": "EXCLUDED"
     },
     {
       "url": "https://www.msccruises.com/int/azerbaijan",
@@ -445,7 +445,8 @@
       "url": "https://www.msccruises.com/int/my-area-with-booking",
       "source": "SITEMAPS",
       "targetPath": "/int/my-area-with-booking",
-      "id": "d494769ca45bde3fb19c5835e095e9354d3a2f2d"
+      "id": "d494769ca45bde3fb19c5835e095e9354d3a2f2d",
+      "status": "EXCLUDED"
     },
     {
       "url": "https://www.msccruises.com/int/my-area-with-booking/payment",
@@ -457,7 +458,8 @@
       "url": "https://www.msccruises.com/int/my-area-with-booking/plan-my-cruise",
       "source": "SITEMAPS",
       "targetPath": "/int/my-area-with-booking/plan-my-cruise",
-      "id": "ec5afe936a18712ecbf6f8c8a3b8eadcc8485d5b"
+      "id": "ec5afe936a18712ecbf6f8c8a3b8eadcc8485d5b",
+      "status": "EXCLUDED"
     },
     {
       "url": "https://www.msccruises.com/int/poland",
@@ -604,19 +606,6 @@
       "id": "9bcc449708318211102356dcc0ef7c25f0b37370"
     }
   ],
-  "crawlOptions": {
-    "timeout": 64800000,
-    "inclusionPatterns": [],
-    "exclusionPatterns": [],
-    "limit": 100,
-    "sameDomain": true,
-    "keepHash": false,
-    "strategy": "sitemaps",
-    "logger": {},
-    "strategiesAttempted": [
-      "SITEMAPS"
-    ]
-  },
   "extractionErrors": [
     {
       "url": "https://www.msccruises.com/int/mexico/contact-us",
@@ -638,5 +627,18 @@
       "url": "https://www.msccruises.com/int/select-your-country",
       "status": "404 Not Found"
     }
-  ]
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": 100,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "sitemaps",
+    "logger": {},
+    "strategiesAttempted": [
+      "SITEMAPS"
+    ]
+  }
 }
