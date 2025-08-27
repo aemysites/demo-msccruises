@@ -458,7 +458,8 @@
       "url": "https://www.msccruises.com/int/my-area-with-booking/plan-my-cruise",
       "source": "SITEMAPS",
       "targetPath": "/int/my-area-with-booking/plan-my-cruise",
-      "id": "ec5afe936a18712ecbf6f8c8a3b8eadcc8485d5b"
+      "id": "ec5afe936a18712ecbf6f8c8a3b8eadcc8485d5b",
+      "status": "EXCLUDED"
     },
     {
       "url": "https://www.msccruises.com/int/poland",
