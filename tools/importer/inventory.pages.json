@@ -1,0 +1,464 @@
+{
+  "templates": [
+    {
+      "name": "'Dashboard Template'",
+      "cluster": 1,
+      "pages": [
+        {
+          "url": "https://www.msccruises.com/int/msc-for-me/card-registration",
+          "uuid": "5fbc9325ebb154cf44ad6b3b14911f103d92e632"
+        },
+        {
+          "url": "https://www.msccruises.com/int/forms/newsletter-sign-up",
+          "uuid": "b1a10e407f5c50a560152e303b15be38db37c127"
+        }
+      ]
+    },
+    {
+      "name": "Dashboard Template",
+      "cluster": 2,
+      "pages": [
+        {
+          "url": "https://www.msccruises.com/int/link-in-bio",
+          "uuid": "77d35af4d631f6c78ebdce088de6fbfafb336f12"
+        },
+        {
+          "url": "https://www.msccruises.com/int/cruise-reviews",
+          "uuid": "15e9f0e166e0c19f793ed19816426084adbdf793"
+        },
+        {
+          "url": "https://www.msccruises.com/int/croatia",
+          "uuid": "8db5762a8845f911172904de3ba364f1fd1457f1"
+        },
+        {
+          "url": "https://www.msccruises.com/int",
+          "uuid": "77d7d75a77086d4b225473c1e2d1f67b1f48e32e"
+        },
+        {
+          "url": "https://www.msccruises.com/int/terms-conditions-em",
+          "uuid": "32926244991edfe769cdc7a56ca604b7262607ac"
+        },
+        {
+          "url": "https://www.msccruises.com/int/contact-us-em",
+          "uuid": "c48a8247a50013abda41bb66ad603ad9a2a29ddc"
+        },
+        {
+          "url": "https://www.msccruises.com/int/contact-us",
+          "uuid": "edd436c601bb64a86d43948999c7b9a41a238a9f"
+        },
+        {
+          "url": "https://www.msccruises.com/int/facial-recognition-privacy-notice",
+          "uuid": "e901ec628436f1bc071477c13ce188a981680160"
+        },
+        {
+          "url": "https://www.msccruises.com/int/msc-for-me-privacy-policy",
+          "uuid": "63943d4e7ff1e87eb03b77189819cc2542254868"
+        },
+        {
+          "url": "https://www.msccruises.com/int/lebanon",
+          "uuid": "a2a1ded06f6d5c80f3fb814ca989d2898790ca4a"
+        },
+        {
+          "url": "https://www.msccruises.com/int/japan",
+          "uuid": "bb2295129312921d06033ee1dafc4caa528cfab0"
+        },
+        {
+          "url": "https://www.msccruises.com/int/thank-you-from-msc-cruises",
+          "uuid": "98102342848c02da19d5d62105b77e3fde0f7643"
+        },
+        {
+          "url": "https://www.msccruises.com/int/greater-beauty",
+          "uuid": "e91d8ae2f329927299ff87a6cd37d348c537362a"
+        },
+        {
+          "url": "https://www.msccruises.com/int/sustainability",
+          "uuid": "d075a8e506ee61398199f284df68e247b56ecfd3"
+        },
+        {
+          "url": "https://www.msccruises.com/int/accessibility-statement",
+          "uuid": "622df45ef3be62d1ff42a0af45bea5eabb4f71a2"
+        },
+        {
+          "url": "https://www.msccruises.com/int/data-subject-request-form",
+          "uuid": "3d6efb2dab3c4e8233e6f262ad532c0f7bc484ee"
+        },
+        {
+          "url": "https://www.msccruises.com/int/f1-events",
+          "uuid": "1b0ad61aabcfffcdc4b4de113ed234e050c33601"
+        },
+        {
+          "url": "https://www.msccruises.com/int/turkey",
+          "uuid": "c46f2ee6f773e22438ded941d8934ecde2ef6ead"
+        },
+        {
+          "url": "https://www.msccruises.com/int/lithuania",
+          "uuid": "c5446bc5422e66ab5b71e60df65358c3ba98d865"
+        },
+        {
+          "url": "https://www.msccruises.com/int/poland",
+          "uuid": "8a28edca208ed7a4374d0719f531201ecd379916"
+        },
+        {
+          "url": "https://www.msccruises.com/int/romania",
+          "uuid": "b8cb25b04a0f558c09d6dae3223cd7d04c6e443f"
+        },
+        {
+          "url": "https://www.msccruises.com/int/jordan",
+          "uuid": "0d9001e6bba2230aba2fa685d7dc0a583bae17f8"
+        },
+        {
+          "url": "https://www.msccruises.com/int/azerbaijan",
+          "uuid": "433c08676153f5d902ecdc53f49c7194f050d6f7"
+        },
+        {
+          "url": "https://www.msccruises.com/int/tunisia",
+          "uuid": "3ae378ed40230e9bffdafb4fee77097d0dd0bb3b"
+        },
+        {
+          "url": "https://www.msccruises.com/int/morocco",
+          "uuid": "23c69aee1dce83f89f8dd5bfff4acee91d6be873"
+        },
+        {
+          "url": "https://www.msccruises.com/int/hungary",
+          "uuid": "96e70ae30e6c6ddfb81f386605d0c7267a9f2040"
+        },
+        {
+          "url": "https://www.msccruises.com/int/czech-republic",
+          "uuid": "0d08775170b3a06c35eef199f533ba0ac3b774e8"
+        },
+        {
+          "url": "https://www.msccruises.com/int/bulgaria",
+          "uuid": "582caa1c65620810415f2047e18fca0262abdf58"
+        },
+        {
+          "url": "https://www.msccruises.com/int/slovakia",
+          "uuid": "9a15aa1d78e935721b50adc29bd9dd1601d3efee"
+        },
+        {
+          "url": "https://www.msccruises.com/int/latvia",
+          "uuid": "5aad8c5f9142c204198e64e6affd7b13b743e002"
+        },
+        {
+          "url": "https://www.msccruises.com/int/ukraine",
+          "uuid": "9bcc449708318211102356dcc0ef7c25f0b37370"
+        }
+      ]
+    },
+    {
+      "name": "'Dashboard Overview'",
+      "cluster": 3,
+      "pages": [
+        {
+          "url": "https://www.msccruises.com/int/cruise-deals/summer-cruises",
+          "uuid": "91950303430582fd2e30f46506af4645541e18ac"
+        },
+        {
+          "url": "https://www.msccruises.com/int/cruise-deals/summer-cruises/june",
+          "uuid": "304ec51fc100428c049fbfbd26fcfc1c30fe14e8"
+        },
+        {
+          "url": "https://www.msccruises.com/int/cruise-deals/summer-cruises/july",
+          "uuid": "3acfc1e2dc04f6310857981dd1edd21d9aff1a5f"
+        },
+        {
+          "url": "https://www.msccruises.com/int/cruise-deals/summer-cruises/august",
+          "uuid": "390b88e29be79bca18e93de6a1e06b13798fa2bf"
+        },
+        {
+          "url": "https://www.msccruises.com/int/cruise-deals/winter-cruises",
+          "uuid": "9715fb05c760865991a11ed6e2d84c6884c91f38"
+        },
+        {
+          "url": "https://www.msccruises.com/int/cruise-deals/autumn-cruises",
+          "uuid": "f8230d8e0ccef96de01c6dd10dde60a8bc986e9c"
+        },
+        {
+          "url": "https://www.msccruises.com/int/japan/cruise-deals/winter-cruises",
+          "uuid": "d4c651be4666df82be0f2b82c8274b52e0e63c40"
+        },
+        {
+          "url": "https://www.msccruises.com/int/cruise-deals/spring-break-cruises/march-cruises",
+          "uuid": "0838dab0db8f4044bb087c89eb766b5a7e2eaf2b"
+        },
+        {
+          "url": "https://www.msccruises.com/int/cruise-deals/last-minute",
+          "uuid": "ba67814ef56bffd7f742d7634fe6a3a87a6705d9"
+        },
+        {
+          "url": "https://www.msccruises.com/int/cruise-deals/halloween",
+          "uuid": "2146d8f05f8e5805bda101a1e07b9f2803c05a38"
+        },
+        {
+          "url": "https://www.msccruises.com/int/japan/cruise-deals/summer-2025",
+          "uuid": "a5f38d72979ca39321104cf199e7406bebe2638b"
+        },
+        {
+          "url": "https://www.msccruises.com/int/cruise-deals/spring-break-cruises",
+          "uuid": "87d115164acafff056df39dfd17d020049085e33"
+        },
+        {
+          "url": "https://www.msccruises.com/int/japan/cruise-deals/spring-cruises",
+          "uuid": "e4f5901013c8fab8cd8e62d577fe9d7236c45261"
+        },
+        {
+          "url": "https://www.msccruises.com/int/cruise-deals/cruises-from-new-york",
+          "uuid": "a315aed9d263ba82eb503baa6113f5f499d6e556"
+        },
+        {
+          "url": "https://www.msccruises.com/int/cruise-deals/winter-cruises/december",
+          "uuid": "168d020ec62c6f147b873bd1c7e3da76d9eaf45a"
+        },
+        {
+          "url": "https://www.msccruises.com/int/cruise-deals/winter-cruises/february",
+          "uuid": "8e59ec08ba4c8efced0f659c16b74903ca311081"
+        },
+        {
+          "url": "https://www.msccruises.com/int/cruise-deals/autumn-cruises/september",
+          "uuid": "97f5de599e35bfc1eb9600fee36b8638882f2037"
+        },
+        {
+          "url": "https://www.msccruises.com/int/croatia/cruise-deals/cruises-from-croatia",
+          "uuid": "a65fa8bb9220885e771b4cdae315587fcde90e3a"
+        },
+        {
+          "url": "https://www.msccruises.com/int/croatia/cruise-deals/best-price-drinks-summer-2025",
+          "uuid": "ea0cf24a36e9253b245f3d61e09f5081024c1be7"
+        },
+        {
+          "url": "https://www.msccruises.com/int/croatia/cruise-deals/summer-wave-2025",
+          "uuid": "7bff8c5c501dbc51b8a8763f7e829c0d6f18e787"
+        },
+        {
+          "url": "https://www.msccruises.com/int/croatia/cruise-deals/winter-wave-25-26",
+          "uuid": "ade148e7433ac6ad194b2845bc52db189bac320d"
+        },
+        {
+          "url": "https://www.msccruises.com/int/cruise-deals/drinks-packages-included",
+          "uuid": "774a127203a01e8beb2c2785d1e76a252729af21"
+        },
+        {
+          "url": "https://www.msccruises.com/int/cruise-deals/flight-and-cruise-antilles",
+          "uuid": "37eb4299f0a1c2488329c53d85424423018ed462"
+        },
+        {
+          "url": "https://www.msccruises.com/int/croatia/cruise-deals/last-minute",
+          "uuid": "65fef49337a824ab1c2fca15ae02b406860309e6"
+        },
+        {
+          "url": "https://www.msccruises.com/int/croatia/cruise-deals/canary-and-madeira-cruises",
+          "uuid": "fac5864f1d83c585b56917b7d9812a45d3c7360c"
+        },
+        {
+          "url": "https://www.msccruises.com/int/cruise-deals/autumn-cruises/november",
+          "uuid": "173dba846a1fba3383b36e6defd7c0fd722f9bfe"
+        },
+        {
+          "url": "https://www.msccruises.com/int/croatia/cruise-deals/cruises-from-alaska",
+          "uuid": "100470bb7779f3e71f2348a0d4685e02a0044dea"
+        },
+        {
+          "url": "https://www.msccruises.com/int/cruise-deals/autumn-cruises/october",
+          "uuid": "669b42247fde1f5a1a8f9591f88819bcca35a342"
+        },
+        {
+          "url": "https://www.msccruises.com/int/cruise-deals/msc-winter-wave-25-26",
+          "uuid": "bfc497f9afdf16ad8d205d1aa526b49d3ed1844a"
+        },
+        {
+          "url": "https://www.msccruises.com/int/cruise-deals/cruise-from/genoa",
+          "uuid": "b8848f496179a284fcb089b2007a33e79a9633e5"
+        },
+        {
+          "url": "https://www.msccruises.com/int/cruise-deals/msc-winter-wave-25-26-rus",
+          "uuid": "2cbf2c644835ed339f13f14acb326cc974c8b1de"
+        },
+        {
+          "url": "https://www.msccruises.com/int/cruise-deals/msc-96-hours",
+          "uuid": "39122ccd612e2956c5dba7510982e385a5570fcc"
+        }
+      ]
+    },
+    {
+      "name": "Gallery Grid Page",
+      "cluster": 4,
+      "pages": [
+        {
+          "url": "https://www.msccruises.com/int/sustainability/people",
+          "uuid": "639434f847e21f499ecc0fb494c1ba55095ecbca"
+        },
+        {
+          "url": "https://www.msccruises.com/int/sustainability/planet",
+          "uuid": "eb712f1931bfc0d72c6e6a7df766603cfb2f1e95"
+        },
+        {
+          "url": "https://www.msccruises.com/int/sustainability/technology-efficiency-and-fuels",
+          "uuid": "9296e943502f0e355bbb0407e7bf4675b381d227"
+        },
+        {
+          "url": "https://www.msccruises.com/int/sustainability/responsible-tourism",
+          "uuid": "94fb68014cf383faa989e902e08328549864c05d"
+        },
+        {
+          "url": "https://www.msccruises.com/int/sustainability/supply-and-value-chain",
+          "uuid": "d10b5196a4bd9a009ca5c392ad835a10c0b1c742"
+        }
+      ]
+    },
+    {
+      "name": "'Dashboard Template'",
+      "cluster": 5,
+      "pages": [
+        {
+          "url": "https://www.msccruises.com/int/turkey/cruise-deals-turkey/cruises-from-turkey-summer",
+          "uuid": "efd1a0eb302f95375685191385c2191f77c5020d"
+        },
+        {
+          "url": "https://www.msccruises.com/int/turkey/cruise-deals-turkey/cruises-from-turkey-winter",
+          "uuid": "980f8a5823d0d30c1ae2e9011264284f50db074b"
+        },
+        {
+          "url": "https://www.msccruises.com/int/turkey/cruise-deals-turkey/international-cruises",
+          "uuid": "883c9704ac8a946c0a873af27d9905511d00cc3d"
+        }
+      ]
+    },
+    {
+      "name": "'Dashboard Template'",
+      "cluster": 6,
+      "pages": [
+        {
+          "url": "https://www.msccruises.com/int/turkey/msc-yacht-club-old",
+          "uuid": "da94ce1d1e49aa6e7af3516b489f95f8502d25ac"
+        },
+        {
+          "url": "https://www.msccruises.com/int/turkey/fly-and-cruise",
+          "uuid": "588e0a7d4ad1fa88be6f7912422913ff4a40650d"
+        },
+        {
+          "url": "https://www.msccruises.com/int/turkey/greater-beauty",
+          "uuid": "06a6d1c4171346c04971d4347db56e4517b93388"
+        },
+        {
+          "url": "https://www.msccruises.com/int/turkey/cruise-deals-turkey",
+          "uuid": "f05a8b652e9122db0724adf8bfdad3d47ce5e904"
+        },
+        {
+          "url": "https://www.msccruises.com/int/turkey/terms-conditions",
+          "uuid": "94124f9ff6a015f4c0ca8c7a271b0da677078206"
+        },
+        {
+          "url": "https://www.msccruises.com/int/turkey/contact-us",
+          "uuid": "e9445e5e331156e9bfbf2ebd9bfc50efbef98cd4"
+        }
+      ]
+    },
+    {
+      "name": "'Dashboard Template'",
+      "cluster": 7,
+      "pages": [
+        {
+          "url": "https://www.msccruises.com/int/cruise-deals/all-inclusive",
+          "uuid": "e2a9c593b66cef5dce57b84f4b2e7bd50369ce17"
+        },
+        {
+          "url": "https://www.msccruises.com/int/cruise-deals/2025",
+          "uuid": "9fa4f21e18c07d09fb981355dc13960bbcb2844e"
+        },
+        {
+          "url": "https://www.msccruises.com/int/cruise-deals/single-parent-cruise",
+          "uuid": "939a0a8b31d1b20f4b941b2dc93132053c08bc53"
+        },
+        {
+          "url": "https://www.msccruises.com/int/cruise-deals/cruise-from",
+          "uuid": "84634628e57a70b01ea618aca76bb219be9c8bd8"
+        },
+        {
+          "url": "https://www.msccruises.com/int/cruise-deals/health-workers",
+          "uuid": "ff9151f879db80a0c9624827154e3991c537f6f6"
+        },
+        {
+          "url": "https://www.msccruises.com/int/cruise-deals/stay-and-cruise",
+          "uuid": "8185a37b9d06d975be6cc9894730b3142b5f43b5"
+        }
+      ]
+    },
+    {
+      "name": "'Login Page'",
+      "cluster": 8,
+      "pages": [
+        {
+          "url": "https://www.msccruises.com/int/my-area-with-booking/payment",
+          "uuid": "3cc0bf9250ad5c6d796428c4664f40fc6d982c29"
+        }
+      ]
+    },
+    {
+      "name": "'E-commerce product listing'",
+      "cluster": 9,
+      "pages": [
+        {
+          "url": "https://www.msccruises.com/int/romania/cruises-to-istanbul",
+          "uuid": "5e784104f348720cffb0616ec3a9b876cfa8f718"
+        }
+      ]
+    },
+    {
+      "name": "'Dashboard Template'",
+      "cluster": 10,
+      "pages": [
+        {
+          "url": "https://www.msccruises.com/int/lebanon/terms-conditions",
+          "uuid": "bab47135b3ac063637c8ef06f8aef7a4ef5b843b"
+        },
+        {
+          "url": "https://www.msccruises.com/int/lebanon/cruise-deals",
+          "uuid": "1b25b13c94fb2088a50deeda9e3a7257c4329644"
+        },
+        {
+          "url": "https://www.msccruises.com/int/lebanon/contact-us",
+          "uuid": "2692a6c0a53a21b1502618ef20b5a5364d782d82"
+        }
+      ]
+    },
+    {
+      "name": "Dashboard Template",
+      "cluster": 11,
+      "pages": [
+        {
+          "url": "https://www.msccruises.com/int/japan/terms-conditions",
+          "uuid": "f6c26b1c35fb4d8cc63f6c24a7c7226fcab8a662"
+        },
+        {
+          "url": "https://www.msccruises.com/int/japan/cruise-deals",
+          "uuid": "9c940b614b4a482c01fec2fa7b72d309e66e3050"
+        },
+        {
+          "url": "https://www.msccruises.com/int/japan/contact-us",
+          "uuid": "ce47cfb7ee2710a3e81e10826b09c0e410dd4e37"
+        },
+        {
+          "url": "https://www.msccruises.com/int/japan/msc-voyagers-club-status-match",
+          "uuid": "2c1983fccc2f21570ece8341997e3484377bf4e7"
+        }
+      ]
+    },
+    {
+      "name": "'Dashboard Layout'",
+      "cluster": 12,
+      "pages": [
+        {
+          "url": "https://www.msccruises.com/int/croatia/cruise-deals",
+          "uuid": "5bb4c73c9675140321dfafc63a37df3a6bbc1fd2"
+        },
+        {
+          "url": "https://www.msccruises.com/int/croatia/terms-conditions",
+          "uuid": "389a3e169741dc59ee5169ba1c77f6d5770342d7"
+        },
+        {
+          "url": "https://www.msccruises.com/int/croatia/contact-us",
+          "uuid": "bd2fe6e1c71e160e13d530ec1d29929d022b37c5"
+        }
+      ]
+    }
+  ]
+}
